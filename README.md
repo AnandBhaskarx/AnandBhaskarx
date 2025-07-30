@@ -62,7 +62,7 @@
 <p align="left">
   “🧠 I’m building a team to scale my projects and confront production-level challenges head-on.<br/>
   📚 While actively evolving across the full stack, my goal is deep mastery—not surface-level familiarity.<br/>
-  🎨💻🛠️📡🧪🚦 I believe in surrounding myself with excellence across Design, Dev, DevOps, Real-time, Testing, and Performance Optimization.<br/>
+  💻 I believe in surrounding myself with excellence across Design, Dev, DevOps, Real-time, Testing, and Performance Optimization.<br/>
   🎯 Together, we’ll build solutions that thrive under pressure and delight users down to the last pixel.”
 </p>
 
