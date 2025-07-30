@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Heyyy.. 👋, Anand this Side..</h1>
+<h3 align="center">An inspired engineer turning scalable dreams into production-grade realities</h3>
 
-<!--
-**AnandBhaskarx/AnandBhaskarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ongoing proj - working on Medicos - Next-gen medical access | a digital matchmaking platform connecting patients and doctors, reducing travel time and enabling instant access to medical consultations . [Medicos - Next-gen medical access](medicos-one.vercel.app/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently practicing **JavaScript, React, Nextjs, express, MongoDB, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 **“🧠 I’m building a team to scale my projects and confront production-level challenges head-on. 📚 While I’m actively learning and evolving across the full stack, my goal is not just surface-level familiarity—it’s deep mastery. 🔍 I seek to understand every layer, every nuance, and every system in its true depth. 🤝 To achieve this, I believe in surrounding myself with people who bring excellence from every field: 🎨 Design 💻 Development 🛠️ DevOps 📡 Real-time systems 🧪 Testing 🚦 Performance optimization 🎯 Together, we won’t just build things that work—we’ll craft solutions that thrive under pressure, scale beautifully, and make users feel every pixel of thought behind them.”****
+
+- 🤓 Why I’m Obsessed With This Craft **I don’t just learn tools. I experience them. I love how React lets me sculpt responsive interfaces like clay 🖌️ Next.js is a playground for architecture—dynamic layouts, metadata, server components—it’s the puzzle that keeps me curious 🔍🧩 With MongoDB and Prisma, I craft schemas that don’t just store data—they preserve intentions 🧠📊 Debugging production quirks, optimizing workflows, deploying with precision—it’s like tuning an orchestra to hit all the right notes 🎼💡 Each challenge, every deploy bug, and algorithm rewrite makes the stack more than code—it’s the story of my persistence. 🚧💪**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aanand bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanand bhaskar" height="30" width="40" /></a>
+<a href="https://instagram.com/__aaanand__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aaanand__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anandbhaskarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandbhaskarx" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandbhaskarx&show_icons=true&locale=en&layout=compact" alt="anandbhaskarx" /></p>
