@@ -1,4 +1,9 @@
-<h1 align="center">Heyyy.. 👋 Anand this Side</h1>
+<h1 align="center">Heyyy.. 👋 Anand this Side | <a href="https://linkedin.com/in/aanand bhaskar" target="_blank" style="margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.leetcode.com/anandbhaskarx" target="_blank" style="margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+  </a></h1>
 <h3 align="center">🚀 An inspired engineer turning scalable dreams into production-grade realities</h3>
 
 
@@ -61,18 +66,6 @@
   🎯 Together, we’ll build solutions that thrive under pressure and delight users down to the last pixel.”
 </p>
 
-<h3 align="left">📡 Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aanand bhaskar" target="_blank" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/__aaanand__" target="_blank" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>=
-  <a href="https://www.leetcode.com/anandbhaskarx" target="_blank" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-</p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
