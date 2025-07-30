@@ -10,14 +10,7 @@
   A digital matchmaking platform connecting patients and doctors, reducing travel time and enabling instant access to medical consultations.
 </p>
 <h3 align="left">🧠 Currently Practicing:</h3>
-<ul>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>Express</li>
-  <li>MongoDB</li>
-  <li>REST APIs</li>
-</ul>
+<p>JavaScript | React | Next.js | Express | MongoDB | Rest API</p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right:10px;">
@@ -75,7 +68,7 @@
   </a>
   <a href="https://instagram.com/__aaanand__" target="_blank" style="margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
+  </a>=
   <a href="https://www.leetcode.com/anandbhaskarx" target="_blank" style="margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
