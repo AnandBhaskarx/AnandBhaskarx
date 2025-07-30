@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy.. 👋 Anand this Side | <a href="https://linkedin.com/in/aanand bhaskar" target="_blank" style="margin-right:10px;">
+<h1 align="center">Heyyy.. 👋 Anand this Side | <a href="https://linkedin.com/in/aanand bhaskar](https://www.linkedin.com/in/aanand-bhaskar-a7bb98228/" target="_blank" style="margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.leetcode.com/anandbhaskarx" target="_blank" style="margin-right:10px;">
